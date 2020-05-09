@@ -1,0 +1,1 @@
+A fun project pursuing from the objective for learning Angular + IONIC. 
